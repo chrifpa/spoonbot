@@ -22,6 +22,6 @@
 #  dep2: [key: :value]]
 
 
-[ spoonbot: 
-    [ conf: [ { "banks.freenode.net", 6667, "spoonbot" }, { "#polyhack" } ] ] 
+[ spoonbot:
+    [ conf: [ { "irc.freenode.net", 6667, "gerlach" }, { "#gerlachtest" } ] ] 
 ]
